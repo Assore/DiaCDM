@@ -1,0 +1,3299 @@
+[
+    {
+        "knowledge_code": 82,
+        "exercises": [
+            {
+                "exer_id": 445,
+                "logs": [
+                    {
+                        "user_id": 96,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 365,
+                "logs": [
+                    {
+                        "user_id": 79,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 140,
+                "logs": [
+                    {
+                        "user_id": 25,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 364,
+                "logs": [
+                    {
+                        "user_id": 79,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 300,
+                "logs": [
+                    {
+                        "user_id": 62,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 500,
+                "logs": [
+                    {
+                        "user_id": 109,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 58,
+        "exercises": [
+            {
+                "exer_id": 114,
+                "logs": [
+                    {
+                        "user_id": 18,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 115,
+                "logs": [
+                    {
+                        "user_id": 18,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 113,
+                "logs": [
+                    {
+                        "user_id": 18,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 118,
+                "logs": [
+                    {
+                        "user_id": 18,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 116,
+                "logs": [
+                    {
+                        "user_id": 18,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 117,
+                "logs": [
+                    {
+                        "user_id": 18,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 120,
+                "logs": [
+                    {
+                        "user_id": 18,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 52,
+        "exercises": [
+            {
+                "exer_id": 175,
+                "logs": [
+                    {
+                        "user_id": 32,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 176,
+                "logs": [
+                    {
+                        "user_id": 32,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 576,
+                "logs": [
+                    {
+                        "user_id": 121,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 439,
+                "logs": [
+                    {
+                        "user_id": 95,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 577,
+                "logs": [
+                    {
+                        "user_id": 121,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 575,
+                "logs": [
+                    {
+                        "user_id": 121,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 441,
+                "logs": [
+                    {
+                        "user_id": 95,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 440,
+                "logs": [
+                    {
+                        "user_id": 95,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 97,
+        "exercises": [
+            {
+                "exer_id": 175,
+                "logs": [
+                    {
+                        "user_id": 32,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 176,
+                "logs": [
+                    {
+                        "user_id": 32,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 151,
+        "exercises": [
+            {
+                "exer_id": 457,
+                "logs": [
+                    {
+                        "user_id": 99,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 152,
+        "exercises": [
+            {
+                "exer_id": 457,
+                "logs": [
+                    {
+                        "user_id": 99,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 78,
+        "exercises": [
+            {
+                "exer_id": 483,
+                "logs": [
+                    {
+                        "user_id": 106,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 427,
+                "logs": [
+                    {
+                        "user_id": 91,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 488,
+                "logs": [
+                    {
+                        "user_id": 106,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 484,
+                "logs": [
+                    {
+                        "user_id": 106,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 79,
+        "exercises": [
+            {
+                "exer_id": 483,
+                "logs": [
+                    {
+                        "user_id": 106,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 488,
+                "logs": [
+                    {
+                        "user_id": 106,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 484,
+                "logs": [
+                    {
+                        "user_id": 106,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 145,
+        "exercises": [
+            {
+                "exer_id": 421,
+                "logs": [
+                    {
+                        "user_id": 90,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 420,
+                "logs": [
+                    {
+                        "user_id": 90,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 20,
+        "exercises": [
+            {
+                "exer_id": 369,
+                "logs": [
+                    {
+                        "user_id": 80,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 509,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 511,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 510,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 553,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 517,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 372,
+                "logs": [
+                    {
+                        "user_id": 80,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 515,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 556,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 552,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 519,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 550,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 551,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 62,
+                "logs": [
+                    {
+                        "user_id": 8,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 555,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 21,
+        "exercises": [
+            {
+                "exer_id": 369,
+                "logs": [
+                    {
+                        "user_id": 80,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 149,
+                "logs": [
+                    {
+                        "user_id": 27,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 509,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 511,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 510,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 517,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 372,
+                "logs": [
+                    {
+                        "user_id": 80,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 515,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 519,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 497,
+                "logs": [
+                    {
+                        "user_id": 108,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 148,
+                "logs": [
+                    {
+                        "user_id": 27,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 25,
+        "exercises": [
+            {
+                "exer_id": 369,
+                "logs": [
+                    {
+                        "user_id": 80,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 509,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 511,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 510,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 553,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 517,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 372,
+                "logs": [
+                    {
+                        "user_id": 80,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 368,
+                "logs": [
+                    {
+                        "user_id": 80,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 515,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 571,
+                "logs": [
+                    {
+                        "user_id": 121,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 556,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 552,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 519,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 550,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 551,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 593,
+                "logs": [
+                    {
+                        "user_id": 122,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 555,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 11,
+        "exercises": [
+            {
+                "exer_id": 27,
+                "logs": [
+                    {
+                        "user_id": 4,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 12,
+        "exercises": [
+            {
+                "exer_id": 27,
+                "logs": [
+                    {
+                        "user_id": 4,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 28,
+        "exercises": [
+            {
+                "exer_id": 43,
+                "logs": [
+                    {
+                        "user_id": 6,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 51,
+                "logs": [
+                    {
+                        "user_id": 7,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 303,
+                "logs": [
+                    {
+                        "user_id": 63,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 47,
+                "logs": [
+                    {
+                        "user_id": 6,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 54,
+                "logs": [
+                    {
+                        "user_id": 7,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 46,
+                "logs": [
+                    {
+                        "user_id": 6,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 124,
+                "logs": [
+                    {
+                        "user_id": 19,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 56,
+                "logs": [
+                    {
+                        "user_id": 7,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 304,
+                "logs": [
+                    {
+                        "user_id": 63,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 57,
+                "logs": [
+                    {
+                        "user_id": 7,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 30,
+        "exercises": [
+            {
+                "exer_id": 149,
+                "logs": [
+                    {
+                        "user_id": 27,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 360,
+                "logs": [
+                    {
+                        "user_id": 78,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 199,
+                "logs": [
+                    {
+                        "user_id": 38,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 61,
+                "logs": [
+                    {
+                        "user_id": 8,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 148,
+                "logs": [
+                    {
+                        "user_id": 27,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 6,
+        "exercises": [
+            {
+                "exer_id": 229,
+                "logs": [
+                    {
+                        "user_id": 48,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 110,
+        "exercises": [
+            {
+                "exer_id": 229,
+                "logs": [
+                    {
+                        "user_id": 48,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 7,
+        "exercises": [
+            {
+                "exer_id": 229,
+                "logs": [
+                    {
+                        "user_id": 48,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 29,
+        "exercises": [
+            {
+                "exer_id": 254,
+                "logs": [
+                    {
+                        "user_id": 54,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 248,
+                "logs": [
+                    {
+                        "user_id": 53,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 51,
+                "logs": [
+                    {
+                        "user_id": 7,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 58,
+                "logs": [
+                    {
+                        "user_id": 7,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 54,
+                "logs": [
+                    {
+                        "user_id": 7,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 252,
+                "logs": [
+                    {
+                        "user_id": 54,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 253,
+                "logs": [
+                    {
+                        "user_id": 54,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 50,
+                "logs": [
+                    {
+                        "user_id": 7,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 57,
+                "logs": [
+                    {
+                        "user_id": 7,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 55,
+                "logs": [
+                    {
+                        "user_id": 7,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 42,
+        "exercises": [
+            {
+                "exer_id": 78,
+                "logs": [
+                    {
+                        "user_id": 11,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 152,
+                "logs": [
+                    {
+                        "user_id": 27,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 505,
+                "logs": [
+                    {
+                        "user_id": 111,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 154,
+                "logs": [
+                    {
+                        "user_id": 27,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 76,
+                "logs": [
+                    {
+                        "user_id": 11,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 419,
+                "logs": [
+                    {
+                        "user_id": 90,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 155,
+                "logs": [
+                    {
+                        "user_id": 27,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 39,
+        "exercises": [
+            {
+                "exer_id": 308,
+                "logs": [
+                    {
+                        "user_id": 64,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 456,
+                "logs": [
+                    {
+                        "user_id": 98,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 346,
+                "logs": [
+                    {
+                        "user_id": 74,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 454,
+                "logs": [
+                    {
+                        "user_id": 98,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 71,
+                "logs": [
+                    {
+                        "user_id": 10,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 72,
+                "logs": [
+                    {
+                        "user_id": 10,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 83,
+        "exercises": [
+            {
+                "exer_id": 321,
+                "logs": [
+                    {
+                        "user_id": 68,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 541,
+                "logs": [
+                    {
+                        "user_id": 117,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 320,
+                "logs": [
+                    {
+                        "user_id": 68,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 322,
+                "logs": [
+                    {
+                        "user_id": 68,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 542,
+                "logs": [
+                    {
+                        "user_id": 117,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 323,
+                "logs": [
+                    {
+                        "user_id": 68,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 43,
+        "exercises": [
+            {
+                "exer_id": 321,
+                "logs": [
+                    {
+                        "user_id": 68,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 324,
+                "logs": [
+                    {
+                        "user_id": 68,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 102,
+                "logs": [
+                    {
+                        "user_id": 17,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 325,
+                "logs": [
+                    {
+                        "user_id": 68,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 323,
+                "logs": [
+                    {
+                        "user_id": 68,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 126,
+        "exercises": [
+            {
+                "exer_id": 365,
+                "logs": [
+                    {
+                        "user_id": 79,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 427,
+                "logs": [
+                    {
+                        "user_id": 91,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 543,
+                "logs": [
+                    {
+                        "user_id": 117,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 538,
+                "logs": [
+                    {
+                        "user_id": 117,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 364,
+                "logs": [
+                    {
+                        "user_id": 79,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 413,
+                "logs": [
+                    {
+                        "user_id": 89,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 300,
+                "logs": [
+                    {
+                        "user_id": 62,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 540,
+                "logs": [
+                    {
+                        "user_id": 117,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 31,
+        "exercises": [
+            {
+                "exer_id": 582,
+                "logs": [
+                    {
+                        "user_id": 122,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 279,
+                "logs": [
+                    {
+                        "user_id": 58,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 275,
+                "logs": [
+                    {
+                        "user_id": 58,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 280,
+                "logs": [
+                    {
+                        "user_id": 58,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 277,
+                "logs": [
+                    {
+                        "user_id": 58,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 282,
+                "logs": [
+                    {
+                        "user_id": 58,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 473,
+                "logs": [
+                    {
+                        "user_id": 103,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 383,
+                "logs": [
+                    {
+                        "user_id": 83,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 583,
+                "logs": [
+                    {
+                        "user_id": 122,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 273,
+                "logs": [
+                    {
+                        "user_id": 58,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 61,
+                "logs": [
+                    {
+                        "user_id": 8,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 586,
+                "logs": [
+                    {
+                        "user_id": 122,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 590,
+                "logs": [
+                    {
+                        "user_id": 122,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 93,
+        "exercises": [
+            {
+                "exer_id": 359,
+                "logs": [
+                    {
+                        "user_id": 78,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 360,
+                "logs": [
+                    {
+                        "user_id": 78,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 169,
+                "logs": [
+                    {
+                        "user_id": 31,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 347,
+                "logs": [
+                    {
+                        "user_id": 74,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 136,
+        "exercises": [
+            {
+                "exer_id": 359,
+                "logs": [
+                    {
+                        "user_id": 78,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 41,
+        "exercises": [
+            {
+                "exer_id": 152,
+                "logs": [
+                    {
+                        "user_id": 27,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 154,
+                "logs": [
+                    {
+                        "user_id": 27,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 76,
+                "logs": [
+                    {
+                        "user_id": 11,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 155,
+                "logs": [
+                    {
+                        "user_id": 27,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 422,
+                "logs": [
+                    {
+                        "user_id": 90,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 33,
+        "exercises": [
+            {
+                "exer_id": 279,
+                "logs": [
+                    {
+                        "user_id": 58,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 275,
+                "logs": [
+                    {
+                        "user_id": 58,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 280,
+                "logs": [
+                    {
+                        "user_id": 58,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 282,
+                "logs": [
+                    {
+                        "user_id": 58,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 383,
+                "logs": [
+                    {
+                        "user_id": 83,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 61,
+                "logs": [
+                    {
+                        "user_id": 8,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 400,
+                "logs": [
+                    {
+                        "user_id": 86,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 23,
+        "exercises": [
+            {
+                "exer_id": 509,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 156,
+                "logs": [
+                    {
+                        "user_id": 27,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 511,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 526,
+                "logs": [
+                    {
+                        "user_id": 114,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 510,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 553,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 517,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 515,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 556,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 552,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 519,
+                "logs": [
+                    {
+                        "user_id": 112,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 550,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 551,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 62,
+                "logs": [
+                    {
+                        "user_id": 8,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 555,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 22,
+        "exercises": [
+            {
+                "exer_id": 156,
+                "logs": [
+                    {
+                        "user_id": 27,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 553,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 277,
+                "logs": [
+                    {
+                        "user_id": 58,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 368,
+                "logs": [
+                    {
+                        "user_id": 80,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 556,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 552,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 272,
+                "logs": [
+                    {
+                        "user_id": 58,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 550,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 551,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 62,
+                "logs": [
+                    {
+                        "user_id": 8,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 593,
+                "logs": [
+                    {
+                        "user_id": 122,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 555,
+                "logs": [
+                    {
+                        "user_id": 118,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 60,
+        "exercises": [
+            {
+                "exer_id": 156,
+                "logs": [
+                    {
+                        "user_id": 27,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 526,
+                "logs": [
+                    {
+                        "user_id": 114,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 106,
+        "exercises": [
+            {
+                "exer_id": 492,
+                "logs": [
+                    {
+                        "user_id": 107,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 494,
+                "logs": [
+                    {
+                        "user_id": 107,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 130,
+        "exercises": [
+            {
+                "exer_id": 346,
+                "logs": [
+                    {
+                        "user_id": 74,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 144,
+        "exercises": [
+            {
+                "exer_id": 410,
+                "logs": [
+                    {
+                        "user_id": 88,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 409,
+                "logs": [
+                    {
+                        "user_id": 88,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 46,
+        "exercises": [
+            {
+                "exer_id": 576,
+                "logs": [
+                    {
+                        "user_id": 121,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 577,
+                "logs": [
+                    {
+                        "user_id": 121,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 568,
+                "logs": [
+                    {
+                        "user_id": 121,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 575,
+                "logs": [
+                    {
+                        "user_id": 121,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 196,
+                "logs": [
+                    {
+                        "user_id": 37,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 73,
+        "exercises": [
+            {
+                "exer_id": 290,
+                "logs": [
+                    {
+                        "user_id": 59,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 289,
+                "logs": [
+                    {
+                        "user_id": 59,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 260,
+                "logs": [
+                    {
+                        "user_id": 56,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 293,
+                "logs": [
+                    {
+                        "user_id": 59,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 261,
+                "logs": [
+                    {
+                        "user_id": 56,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 292,
+                "logs": [
+                    {
+                        "user_id": 59,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 89,
+        "exercises": [
+            {
+                "exer_id": 167,
+                "logs": [
+                    {
+                        "user_id": 31,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 90,
+        "exercises": [
+            {
+                "exer_id": 167,
+                "logs": [
+                    {
+                        "user_id": 31,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 182,
+                "logs": [
+                    {
+                        "user_id": 33,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 91,
+        "exercises": [
+            {
+                "exer_id": 167,
+                "logs": [
+                    {
+                        "user_id": 31,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 159,
+        "exercises": [
+            {
+                "exer_id": 488,
+                "logs": [
+                    {
+                        "user_id": 106,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 482,
+                "logs": [
+                    {
+                        "user_id": 106,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 54,
+        "exercises": [
+            {
+                "exer_id": 448,
+                "logs": [
+                    {
+                        "user_id": 97,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 449,
+                "logs": [
+                    {
+                        "user_id": 97,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 104,
+                "logs": [
+                    {
+                        "user_id": 17,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 84,
+        "exercises": [
+            {
+                "exer_id": 541,
+                "logs": [
+                    {
+                        "user_id": 117,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 322,
+                "logs": [
+                    {
+                        "user_id": 68,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 542,
+                "logs": [
+                    {
+                        "user_id": 117,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 325,
+                "logs": [
+                    {
+                        "user_id": 68,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 122,
+        "exercises": [
+            {
+                "exer_id": 439,
+                "logs": [
+                    {
+                        "user_id": 95,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 268,
+                "logs": [
+                    {
+                        "user_id": 57,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 441,
+                "logs": [
+                    {
+                        "user_id": 95,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 440,
+                "logs": [
+                    {
+                        "user_id": 95,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 269,
+                "logs": [
+                    {
+                        "user_id": 57,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 137,
+        "exercises": [
+            {
+                "exer_id": 361,
+                "logs": [
+                    {
+                        "user_id": 78,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 10,
+        "exercises": [
+            {
+                "exer_id": 233,
+                "logs": [
+                    {
+                        "user_id": 49,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 211,
+                "logs": [
+                    {
+                        "user_id": 42,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 212,
+                "logs": [
+                    {
+                        "user_id": 42,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 215,
+                "logs": [
+                    {
+                        "user_id": 42,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 85,
+        "exercises": [
+            {
+                "exer_id": 195,
+                "logs": [
+                    {
+                        "user_id": 37,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 14,
+        "exercises": [
+            {
+                "exer_id": 195,
+                "logs": [
+                    {
+                        "user_id": 37,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 221,
+                "logs": [
+                    {
+                        "user_id": 45,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 192,
+                "logs": [
+                    {
+                        "user_id": 36,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 83,
+                "logs": [
+                    {
+                        "user_id": 12,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 99,
+        "exercises": [
+            {
+                "exer_id": 195,
+                "logs": [
+                    {
+                        "user_id": 37,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 3,
+        "exercises": [
+            {
+                "exer_id": 13,
+                "logs": [
+                    {
+                        "user_id": 1,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 15,
+                "logs": [
+                    {
+                        "user_id": 1,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 14,
+                "logs": [
+                    {
+                        "user_id": 1,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 391,
+                "logs": [
+                    {
+                        "user_id": 85,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 24,
+                "logs": [
+                    {
+                        "user_id": 3,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 393,
+                "logs": [
+                    {
+                        "user_id": 85,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 17,
+        "exercises": [
+            {
+                "exer_id": 40,
+                "logs": [
+                    {
+                        "user_id": 5,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 37,
+                "logs": [
+                    {
+                        "user_id": 5,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 32,
+                "logs": [
+                    {
+                        "user_id": 5,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 39,
+                "logs": [
+                    {
+                        "user_id": 5,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 19,
+        "exercises": [
+            {
+                "exer_id": 40,
+                "logs": [
+                    {
+                        "user_id": 5,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 37,
+                "logs": [
+                    {
+                        "user_id": 5,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 39,
+                "logs": [
+                    {
+                        "user_id": 5,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 18,
+        "exercises": [
+            {
+                "exer_id": 33,
+                "logs": [
+                    {
+                        "user_id": 5,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 94,
+        "exercises": [
+            {
+                "exer_id": 174,
+                "logs": [
+                    {
+                        "user_id": 32,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 96,
+        "exercises": [
+            {
+                "exer_id": 174,
+                "logs": [
+                    {
+                        "user_id": 32,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 80,
+        "exercises": [
+            {
+                "exer_id": 458,
+                "logs": [
+                    {
+                        "user_id": 99,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 81,
+        "exercises": [
+            {
+                "exer_id": 458,
+                "logs": [
+                    {
+                        "user_id": 99,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 13,
+        "exercises": [
+            {
+                "exer_id": 221,
+                "logs": [
+                    {
+                        "user_id": 45,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 192,
+                "logs": [
+                    {
+                        "user_id": 36,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 206,
+                "logs": [
+                    {
+                        "user_id": 41,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 83,
+                "logs": [
+                    {
+                        "user_id": 12,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 15,
+        "exercises": [
+            {
+                "exer_id": 221,
+                "logs": [
+                    {
+                        "user_id": 45,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 206,
+                "logs": [
+                    {
+                        "user_id": 41,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 72,
+        "exercises": [
+            {
+                "exer_id": 260,
+                "logs": [
+                    {
+                        "user_id": 56,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 287,
+                "logs": [
+                    {
+                        "user_id": 59,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 261,
+                "logs": [
+                    {
+                        "user_id": 56,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 121,
+        "exercises": [
+            {
+                "exer_id": 260,
+                "logs": [
+                    {
+                        "user_id": 56,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 261,
+                "logs": [
+                    {
+                        "user_id": 56,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 1,
+        "exercises": [
+            {
+                "exer_id": 4,
+                "logs": [
+                    {
+                        "user_id": 0,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 0,
+        "exercises": [
+            {
+                "exer_id": 4,
+                "logs": [
+                    {
+                        "user_id": 0,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 1,
+                "logs": [
+                    {
+                        "user_id": 0,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 129,
+        "exercises": [
+            {
+                "exer_id": 419,
+                "logs": [
+                    {
+                        "user_id": 90,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 422,
+                "logs": [
+                    {
+                        "user_id": 90,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 101,
+        "exercises": [
+            {
+                "exer_id": 473,
+                "logs": [
+                    {
+                        "user_id": 103,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 92,
+        "exercises": [
+            {
+                "exer_id": 169,
+                "logs": [
+                    {
+                        "user_id": 31,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 403,
+                "logs": [
+                    {
+                        "user_id": 87,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 347,
+                "logs": [
+                    {
+                        "user_id": 74,
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "exer_id": 479,
+                "logs": [
+                    {
+                        "user_id": 105,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 66,
+        "exercises": [
+            {
+                "exer_id": 571,
+                "logs": [
+                    {
+                        "user_id": 121,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 26,
+        "exercises": [
+            {
+                "exer_id": 272,
+                "logs": [
+                    {
+                        "user_id": 58,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 135,
+        "exercises": [
+            {
+                "exer_id": 357,
+                "logs": [
+                    {
+                        "user_id": 78,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 108,
+        "exercises": [
+            {
+                "exer_id": 431,
+                "logs": [
+                    {
+                        "user_id": 92,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 109,
+        "exercises": [
+            {
+                "exer_id": 431,
+                "logs": [
+                    {
+                        "user_id": 92,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 24,
+        "exercises": [
+            {
+                "exer_id": 376,
+                "logs": [
+                    {
+                        "user_id": 81,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 138,
+        "exercises": [
+            {
+                "exer_id": 376,
+                "logs": [
+                    {
+                        "user_id": 81,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 123,
+        "exercises": [
+            {
+                "exer_id": 273,
+                "logs": [
+                    {
+                        "user_id": 58,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 32,
+        "exercises": [
+            {
+                "exer_id": 61,
+                "logs": [
+                    {
+                        "user_id": 8,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 161,
+        "exercises": [
+            {
+                "exer_id": 534,
+                "logs": [
+                    {
+                        "user_id": 116,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 142,
+        "exercises": [
+            {
+                "exer_id": 534,
+                "logs": [
+                    {
+                        "user_id": 116,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 400,
+                "logs": [
+                    {
+                        "user_id": 86,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 47,
+        "exercises": [
+            {
+                "exer_id": 94,
+                "logs": [
+                    {
+                        "user_id": 14,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 124,
+        "exercises": [
+            {
+                "exer_id": 331,
+                "logs": [
+                    {
+                        "user_id": 70,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 56,
+        "exercises": [
+            {
+                "exer_id": 109,
+                "logs": [
+                    {
+                        "user_id": 18,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 45,
+        "exercises": [
+            {
+                "exer_id": 568,
+                "logs": [
+                    {
+                        "user_id": 121,
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "exer_id": 196,
+                "logs": [
+                    {
+                        "user_id": 37,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 87,
+        "exercises": [
+            {
+                "exer_id": 164,
+                "logs": [
+                    {
+                        "user_id": 30,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 88,
+        "exercises": [
+            {
+                "exer_id": 164,
+                "logs": [
+                    {
+                        "user_id": 30,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 116,
+        "exercises": [
+            {
+                "exer_id": 237,
+                "logs": [
+                    {
+                        "user_id": 50,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 117,
+        "exercises": [
+            {
+                "exer_id": 237,
+                "logs": [
+                    {
+                        "user_id": 50,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 118,
+        "exercises": [
+            {
+                "exer_id": 237,
+                "logs": [
+                    {
+                        "user_id": 50,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 127,
+        "exercises": [
+            {
+                "exer_id": 400,
+                "logs": [
+                    {
+                        "user_id": 86,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 34,
+        "exercises": [
+            {
+                "exer_id": 182,
+                "logs": [
+                    {
+                        "user_id": 33,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 4,
+        "exercises": [
+            {
+                "exer_id": 236,
+                "logs": [
+                    {
+                        "user_id": 50,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 113,
+        "exercises": [
+            {
+                "exer_id": 236,
+                "logs": [
+                    {
+                        "user_id": 50,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 114,
+        "exercises": [
+            {
+                "exer_id": 236,
+                "logs": [
+                    {
+                        "user_id": 50,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 115,
+        "exercises": [
+            {
+                "exer_id": 236,
+                "logs": [
+                    {
+                        "user_id": 50,
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 132,
+        "exercises": [
+            {
+                "exer_id": 343,
+                "logs": [
+                    {
+                        "user_id": 73,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 133,
+        "exercises": [
+            {
+                "exer_id": 343,
+                "logs": [
+                    {
+                        "user_id": 73,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "knowledge_code": 134,
+        "exercises": [
+            {
+                "exer_id": 343,
+                "logs": [
+                    {
+                        "user_id": 73,
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

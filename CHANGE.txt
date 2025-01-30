@@ -1,0 +1,49 @@
+v1.0.1:
+   * update version requirements of longling and pytest-flake8
+
+v1.0.0：
+   * add KaNCD and ICD
+
+v0.0.13:
+   * Bugfix: update dependency version of `longling`
+   * use PosLinear to replace clipper operation
+
+v0.0.12:
+   * limit the range of parameters in IRT and MIRT
+
+v0.0.11:
+    * fix error in `irf`
+    
+v0.0.10:
+    * add STE operator in DINA
+    * add Multidimensional Item Response Theory (MIRT)
+    * add IRR-DINA, IRR-MIRT, IRR-NCDM
+
+v0.0.9:
+    * add Item Response Ranking for Cognitive Diagnosis (IRR)
+        * IRT
+
+v0.0.8:
+    * add DINA model with Gradient Descent Optimization (GDDINA) and rename the previous DINA to EMDINA
+
+v0.0.7:
+    * fix potential ModuleNotFoundError
+
+v0.0.6:
+   * add Item Response Theory with Expectation Maximization Optimization (EMIRT)
+
+v0.0.5:
+   * add Item Response Theory with Gradient Descent Optimization (GDIRT)
+
+v0.0.4:
+   * add NeuralCDM (NCDM)
+
+v0.0.3:
+    * add DINA
+    * add FuzzyCDF
+    
+v0.0.2:
+    * add MCD
+
+v0.0.1:
+    * Add meta class
